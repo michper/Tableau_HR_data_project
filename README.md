@@ -1,3 +1,7 @@
+[Dashboard Tableau 1](https://public.tableau.com/app/profile/micha.om.a/viz/HR_Data_Project1/Dashboard1)
+
+[Dashboard Tableau 2](https://public.tableau.com/app/profile/micha.om.a/viz/HR_Data_Project2/Dashboard2?publish=yes)
+
 #  INTRODUCTION
 
 The HR Dataset was designed by Drs. Rich Huebner and Carla Patalano to accompany a case study designed for graduate HR students studying HR metrics, measurement, and analytics. The students use Tableau data visualization software to uncover insights about the case.
